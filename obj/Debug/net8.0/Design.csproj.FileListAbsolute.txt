@@ -1,0 +1,14 @@
+C:\Users\follyb\Desktop\folly docs\Endpoint\Design\bin\Debug\net8.0\Design.exe
+C:\Users\follyb\Desktop\folly docs\Endpoint\Design\bin\Debug\net8.0\Design.deps.json
+C:\Users\follyb\Desktop\folly docs\Endpoint\Design\bin\Debug\net8.0\Design.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\Endpoint\Design\bin\Debug\net8.0\Design.dll
+C:\Users\follyb\Desktop\folly docs\Endpoint\Design\bin\Debug\net8.0\Design.pdb
+C:\Users\follyb\Desktop\folly docs\Endpoint\Design\obj\Debug\net8.0\Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\Endpoint\Design\obj\Debug\net8.0\Design.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\Endpoint\Design\obj\Debug\net8.0\Design.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\Endpoint\Design\obj\Debug\net8.0\Design.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\Endpoint\Design\obj\Debug\net8.0\Design.dll
+C:\Users\follyb\Desktop\folly docs\Endpoint\Design\obj\Debug\net8.0\refint\Design.dll
+C:\Users\follyb\Desktop\folly docs\Endpoint\Design\obj\Debug\net8.0\Design.pdb
+C:\Users\follyb\Desktop\folly docs\Endpoint\Design\obj\Debug\net8.0\Design.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\Endpoint\Design\obj\Debug\net8.0\ref\Design.dll
