@@ -12,3 +12,4 @@ C:\Users\follyb\Desktop\folly docs\Endpoint\Design\obj\Debug\net8.0\refint\Desig
 C:\Users\follyb\Desktop\folly docs\Endpoint\Design\obj\Debug\net8.0\Design.pdb
 C:\Users\follyb\Desktop\folly docs\Endpoint\Design\obj\Debug\net8.0\Design.genruntimeconfig.cache
 C:\Users\follyb\Desktop\folly docs\Endpoint\Design\obj\Debug\net8.0\ref\Design.dll
+C:\Users\follyb\Desktop\folly docs\Endpoint\Design\obj\Debug\net8.0\Design.sourcelink.json
